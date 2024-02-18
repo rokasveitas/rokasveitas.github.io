@@ -1,0 +1,17 @@
+title: Rokas Veitas
+position: PhD Student
+affiliation: Carnegie Mellon University
+email: rokas@cmu.edu
+office: Wean Hall 6332A
+#keywords: minimal academic
+#google_scholar: https://scholar.google.com/
+github_link: https://github.com/rokasveitas
+#linkedin: https://www.linkedin.com/
+#cv_link: 
+avatar: ./assets/img/portland_head.jpg
+#google_analytics: UA-111540567-4
+#favicon: ./assets/img/favicon.png
+#favicon_dark: ./assets/img/favicon-dark.png
+description: Personal website of Rokas Veitas
+canonical: https://rokasveitas.github.io/
+remote_theme: yaoyao-liu/strata-academic
