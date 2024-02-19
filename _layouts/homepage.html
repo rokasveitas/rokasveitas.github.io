@@ -40,6 +40,9 @@
           {% endif %}
           <h1 class="header-title"><strong><header-title>{{ site.title }}</header-title></strong><br></h1>
           <header-info>
+           {% if site.pronunciation %}
+          {{ site.pronunciation }}<br>
+          {% endif %}
           {% if site.position %}
           {{ site.position }}<br>
           {% endif %}
