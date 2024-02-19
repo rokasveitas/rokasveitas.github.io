@@ -28,7 +28,9 @@
 
     <link rel="stylesheet" href="./assets/css/style.css">
 
-
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </head>
   <body class="is-preload">
 
@@ -40,9 +42,7 @@
           {% endif %}
           <h1 class="header-title"><strong><header-title>{{ site.title }}</header-title></strong><br></h1>
           <header-info>
-           {% if site.pronunciation %}
-          {{ site.pronunciation }}<br>
-          {% endif %}
+          [&#x2C8;ro&#x2D0;k&#x250;s &#x2C8;v&#x25B;&#x26A;&#x32F;t&#x32A;&#x250;s]<br>
           {% if site.position %}
           {{ site.position }}<br>
           {% endif %}

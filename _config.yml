@@ -1,5 +1,4 @@
 title: Rokas Veitas
-pronunciation:  \['roːkɐs ˈvɛɪ̯t̪ɐs\]
 position: PhD Student
 affiliation: Carnegie Mellon University
 email: rokas@cmu.edu
@@ -10,7 +9,7 @@ github_link: https://github.com/rokasveitas
 #linkedin: https://www.linkedin.com/
 #cv_link: 
 avatar: ./assets/img/portland_head.jpg
-#google_analytics: UA-111540567-4
+google_analytics: G-S1TN0X9LNJ
 #favicon: ./assets/img/favicon.png
 #favicon_dark: ./assets/img/favicon-dark.png
 description: Personal website of Rokas Veitas
