@@ -6,7 +6,7 @@ Hello!  I'm a first-year PhD student in theoretical condensed matter physics wor
 
 I did my undergrad at the Massachusetts Institute of Technology, where I worked with Prof. [Xiao-Gang Wen](https://physics.mit.edu/faculty/xiao-gang-wen/) on tensor network algorithms to study gapless topological orders, and I did my masters through the [Perimeter Scholars International](https://perimeterinstitute.ca/psi-masters-program) program at the Perimeter Institute in Waterloo, Ontario, where I worked with Prof. [Sung-Sik Lee](https://perimeterinstitute.ca/people/sung-sik-lee) on functional renormalization for non-Fermi liquids.  
 
-Outside of physics, I'm also interested in linguistics, hiking and [mountaineering](https://peakbagger.com/climber/climber.aspx?cid=33705), singing, and the Lithuanian language and society.  Inside physics but outside my research proper, these days I'm very excited about quantum Kähler geometry, foundations of statistical mechanics, and turbulence.
+Outside of physics, I'm also interested in linguistics, hiking and [mountaineering](https://peakbagger.com/climber/climber.aspx?cid=33705), singing, and the Lithuanian language and society.  
 
 
 ## Education
