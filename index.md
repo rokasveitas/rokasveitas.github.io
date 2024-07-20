@@ -2,15 +2,15 @@
 layout: homepage
 ---
 
-Hello!  I'm a first-year PhD student in theoretical condensed matter physics working with Prof. [Shubhayu Chatterjee](https://scholar.google.com/citations?user=wovjAPsAAAAJ&hl=en).  I'm interested broadly in quantum many-body systems, and right now I'm working on [tensor network](https://tensornetwork.org/) numerical methods for understanding quantum criticality and thermalization.  
+Hello!  I'm a second-year PhD student in theoretical condensed matter physics working with Prof. [Shubhayu Chatterjee](https://scholar.google.com/citations?user=wovjAPsAAAAJ&hl=en).  I'm interested broadly in quantum many-body systems, and right now I'm working with [tensor network](https://tensornetwork.org/) numerical methods to understand quantum criticality and thermalization.  
 
 I did my undergrad at the Massachusetts Institute of Technology, where I worked with Prof. [Xiao-Gang Wen](https://physics.mit.edu/faculty/xiao-gang-wen/) on tensor network algorithms to study gapless topological orders, and I did my masters through the [Perimeter Scholars International](https://perimeterinstitute.ca/psi-masters-program) program at the Perimeter Institute in Waterloo, Ontario, where I worked with Prof. [Sung-Sik Lee](https://perimeterinstitute.ca/people/sung-sik-lee) on functional renormalization for non-Fermi liquids.  
 
-Outside of physics, I'm also interested in linguistics, hiking and [mountaineering](https://peakbagger.com/climber/climber.aspx?cid=33705), singing, and the Lithuanian language and society.  
+Outside of physics, I'm also interested in linguistics, hiking and [mountaineering](https://peakbagger.com/climber/climber.aspx?cid=33705), singing and playing music, and the Lithuanian language and society.  
 
 
 ## Education
-- **2023–202?**: PhD in Physics from Carnegie Mellon University
+- **2023–2028**: PhD in Physics from Carnegie Mellon University
 - **2022–2023**: MSc in Theoretical Physics from the University of Waterloo and PSI Certificate from the Perimeter Institute.  Essay title: *Four-fermion interactions and emergent symmetry in a non-Fermi liquid*
 - **2018–2022**: BS in Physics and in Mathematics from the Massachusetts Institute of Technology, with a specialization in Theoretical Condensed Matter Physics
 
