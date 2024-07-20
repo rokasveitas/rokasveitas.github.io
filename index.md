@@ -16,10 +16,8 @@ Outside of physics, I'm also interested in linguistics, hiking and [mountaineeri
 
 
 ## Teaching
-At CMU, I am currently the TA for 33-234, Quantum Physics, and my office hours are Thursdays 10–11 in WH6327. 
-
+In Spring 2024, I was the TA for 33-234, Quantum Physics. 
 In Fall 2023, I was the TA for 33-331, Physical Mechanics I.
-
 
 ## Talks
 - **Four-fermion interactions and emergent symmetry in a non-Fermi liquid**
