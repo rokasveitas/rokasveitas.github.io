@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-Hello!  I'm a second-year PhD student in theoretical condensed matter physics working with Prof. [Shubhayu Chatterjee](https://scholar.google.com/citations?user=wovjAPsAAAAJ&hl=en).  I'm interested broadly in quantum many-body systems, and right now I'm working with [tensor network](https://tensornetwork.org/) numerical methods to understand quantum criticality and thermalization.  
+Hello!  I'm a second-year PhD student in theoretical condensed matter physics working with Prof. [Shubhayu Chatterjee](https://scholar.google.com/citations?user=wovjAPsAAAAJ&hl=en).  I'm interested broadly in quantum many-body systems, and right now I'm working with [tensor network](https://tensornetwork.org/) numerical methods to understand thermalization in quantum critical systems.  
 
 I did my undergrad at the Massachusetts Institute of Technology, where I worked with Prof. [Xiao-Gang Wen](https://physics.mit.edu/faculty/xiao-gang-wen/) on tensor network algorithms to study gapless topological orders, and I did my masters through the [Perimeter Scholars International](https://perimeterinstitute.ca/psi-masters-program) program at the Perimeter Institute in Waterloo, Ontario, where I worked with Prof. [Sung-Sik Lee](https://perimeterinstitute.ca/people/sung-sik-lee) on functional renormalization for non-Fermi liquids.  
 
