@@ -11,7 +11,7 @@ Outside of physics, I'm also interested in linguistics, hiking and [mountaineeri
 
 ## Education
 - **2023–2028**: PhD in Physics from Carnegie Mellon University
-- **2022–2023**: MSc in Theoretical Physics from the University of Waterloo and PSI Certificate from the Perimeter Institute.  Essay on [*Four-fermion interactions and emergent symmetry in a non-Fermi liquid*](/_site/assets/veitas-psi-essay-2023.pdf)
+- **2022–2023**: MSc in Theoretical Physics from the University of Waterloo and PSI Certificate from the Perimeter Institute.  Essay on [*Four-fermion interactions and emergent symmetry in a non-Fermi liquid*](/veitas-psi-essay-2023.pdf)
 - **2018–2022**: BS in Physics and in Mathematics from the Massachusetts Institute of Technology, with a specialization in Theoretical Condensed Matter Physics
 
 
