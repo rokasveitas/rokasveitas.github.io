@@ -16,11 +16,11 @@ Outside of physics, I'm also interested in linguistics, hiking and [mountaineeri
 
 
 ## Teaching
-In Spring 2025, I am the TA for 33-448, Introduction to Solid State Physics.  My office hours are TBD in my office, Wean 6422.
+Spring 2025: TA for 33-448, Introduction to Solid State Physics.  Office hours: Wednesdays 4–5 in Wean 7423.
 
-In Spring 2024, I was the TA for 33-234, Quantum Physics. 
+Spring 2024: TA for 33-234, Quantum Physics. 
 
-In Fall 2023, I was the TA for 33-331, Physical Mechanics I.
+Fall 2023: TA for 33-331, Physical Mechanics I.
 
 ## Talks
 - **Four-fermion interactions and emergent symmetry in a non-Fermi liquid**
