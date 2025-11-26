@@ -2,12 +2,16 @@
 layout: homepage
 ---
 
-Hello!  I'm a second-year PhD student in theoretical condensed matter physics working with Prof. [Shubhayu Chatterjee](https://scholar.google.com/citations?user=wovjAPsAAAAJ&hl=en).  I'm interested broadly in quantum many-body problems, and right now I'm working with [tensor network](https://tensornetwork.org/) numerical methods to understand thermalization in quantum critical systems.  I'm grateful to be supported by the J. Michael McQuade Fellowship.
+Hello!  I'm a third-year PhD student in theoretical condensed matter physics working with Prof. [Shubhayu Chatterjee](https://scholar.google.com/citations?user=wovjAPsAAAAJ&hl=en).  I'm interested broadly in quantum many-body problems, and right now I'm working with [tensor network](https://tensornetwork.org/) numerical methods to understand strongly-correlated magnetism, criticality, and thermalization.  I'm grateful to have been supported by the J. Michael McQuade Fellowship.
 
 I did my undergrad at the Massachusetts Institute of Technology, where I worked with Prof. [Xiao-Gang Wen](https://physics.mit.edu/faculty/xiao-gang-wen/) on tensor network algorithms to study gapless topological orders, and I did my masters through the [Perimeter Scholars International](https://perimeterinstitute.ca/psi-masters-program) program at the Perimeter Institute in Waterloo, Ontario, where I worked with Prof. [Sung-Sik Lee](https://perimeterinstitute.ca/people/sung-sik-lee) on functional renormalization for non-Fermi liquids.  
 
 Outside of physics, I'm also interested in linguistics, hiking and [mountaineering](https://peakbagger.com/climber/climber.aspx?cid=33705), singing and playing music, and the Lithuanian language and society.  
 
+## Preprints
+
+[Spin-orbital magnetism in moiré Wigner molecules](https://arxiv.org/abs/2507.06307)
+> The interplay of spin and orbital degrees of freedom offers a versatile playground for the realization of a variety of correlated phases of matter. However, the types of spin-orbital interactions are often limited and challenging to tune. Here, we propose and analyze a new platform for spin-orbital interactions based upon a lattice of Wigner molecules in moiré transition metal dichalcogenides (TMDs). Leveraging the spin-orbital degeneracy of the low-energy Hilbert space of each Wigner molecule, we demonstrate that TMD materials can host a general spin-orbital Hamiltonian that is tunable via the moiré superlattice spacing and dielectric environments. We study the phase diagram for this model, revealing a rich landscape of phases driven by spin-orbital interactions, ranging from ferri-electric valence bond solids to a helical spin liquid. Our work establishes moiré Wigner molecules in TMD materials as a prominent platform for correlated spin-orbital phenomena. 
 
 ## Education
 - **2023–2028**: PhD in Physics from Carnegie Mellon University
@@ -16,26 +20,9 @@ Outside of physics, I'm also interested in linguistics, hiking and [mountaineeri
 
 
 ## Teaching
-Spring 2025: TA for 33-448, Introduction to Solid State Physics.  Office hours: Wednesdays 4–5 in Wean 7423.
+Spring 2025: TA for 33-448, Introduction to Solid State Physics.
 
 Spring 2024: TA for 33-234, Quantum Physics. 
 
 Fall 2023: TA for 33-331, Physical Mechanics I.
-
-## Talks
-- **Four-fermion interactions and emergent symmetry in a non-Fermi liquid**
-	<br>
-	CMU Condensed Matter Theory group meeting
-	<br>
-	February 2024
-- **Four-fermion interactions and emergent symmetry in a non-Fermi liquid**
-	<br>
-	Perimeter Scholars International essay (thesis) defence
-	<br>
-	June 2023
-- **Loop tensor network renormalization on an $S_3$-symmetric model**
-	<br>
-	Perimeter Institute Quantum Information Lab ([PIQuIL](https://perimeterinstitute.ca/perimeter-institute-quantum-intelligence-lab-piquil)) journal club
-	<br>
-	November 2022
 
