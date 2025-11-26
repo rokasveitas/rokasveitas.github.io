@@ -10,8 +10,8 @@ Outside of physics, I'm also interested in linguistics, hiking and [mountaineeri
 
 ## Preprints
 
-[Spin-orbital magnetism in moiré Wigner molecules](https://arxiv.org/abs/2507.06307)
-> The interplay of spin and orbital degrees of freedom offers a versatile playground for the realization of a variety of correlated phases of matter. However, the types of spin-orbital interactions are often limited and challenging to tune. Here, we propose and analyze a new platform for spin-orbital interactions based upon a lattice of Wigner molecules in moiré transition metal dichalcogenides (TMDs). Leveraging the spin-orbital degeneracy of the low-energy Hilbert space of each Wigner molecule, we demonstrate that TMD materials can host a general spin-orbital Hamiltonian that is tunable via the moiré superlattice spacing and dielectric environments. We study the phase diagram for this model, revealing a rich landscape of phases driven by spin-orbital interactions, ranging from ferri-electric valence bond solids to a helical spin liquid. Our work establishes moiré Wigner molecules in TMD materials as a prominent platform for correlated spin-orbital phenomena. 
+July 2025: [Spin-orbital magnetism in moiré Wigner molecules](https://arxiv.org/abs/2507.06307)
+
 
 ## Education
 - **2023–2028**: PhD in Physics from Carnegie Mellon University
